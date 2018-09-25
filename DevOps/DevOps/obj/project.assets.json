@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\DevOps.csproj",
+      "projectUniqueName": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\DevOps.csproj",
       "projectName": "DevOps",
-      "projectPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\DevOps.csproj",
+      "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\DevOps.csproj",
       "packagesPath": "C:\\Users\\Yigit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\obj\\",
+      "outputPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

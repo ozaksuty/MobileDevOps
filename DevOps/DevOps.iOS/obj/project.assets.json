@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps.iOS\\DevOps.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps.iOS\\DevOps.iOS.csproj",
       "projectName": "DevOps.iOS",
-      "projectPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps.iOS\\DevOps.iOS.csproj",
+      "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps.iOS\\DevOps.iOS.csproj",
       "packagesPath": "C:\\Users\\Yigit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -747,8 +747,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\DevOps.csproj": {
-              "projectPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\DevOps.csproj"
+            "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\DevOps.csproj": {
+              "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\DevOps.csproj"
             }
           }
         }

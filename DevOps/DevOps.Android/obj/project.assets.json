@@ -767,11 +767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps.Android\\DevOps.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps.Android\\DevOps.Android.csproj",
       "projectName": "DevOps.Android",
-      "projectPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps.Android\\DevOps.Android.csproj",
+      "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps.Android\\DevOps.Android.csproj",
       "packagesPath": "C:\\Users\\Yigit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps.Android\\obj\\",
+      "outputPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -790,8 +790,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\DevOps.csproj": {
-              "projectPath": "C:\\Users\\Yigit\\source\\repos\\DevOps\\DevOps\\DevOps\\DevOps.csproj"
+            "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\DevOps.csproj": {
+              "projectPath": "C:\\Users\\Yigit\\Documents\\GitHub\\MobileDevOps\\DevOps\\DevOps\\DevOps.csproj"
             }
           }
         }

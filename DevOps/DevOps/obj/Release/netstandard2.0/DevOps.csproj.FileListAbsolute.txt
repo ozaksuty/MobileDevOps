@@ -1,0 +1,11 @@
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\bin\Release\netstandard2.0\DevOps.deps.json
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\bin\Release\netstandard2.0\DevOps.dll
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\bin\Release\netstandard2.0\DevOps.pdb
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\DevOps.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\DevOps.AssemblyInfoInputs.cache
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\DevOps.AssemblyInfo.cs
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\DevOps.dll
+C:\Users\Yigit\Documents\GitHub\MobileDevOps\DevOps\DevOps\obj\Release\netstandard2.0\DevOps.pdb
