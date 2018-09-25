@@ -1,0 +1,12 @@
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\bin\Debug\netstandard2.0\DevOps.deps.json
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\bin\Debug\netstandard2.0\DevOps.dll
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\bin\Debug\netstandard2.0\DevOps.pdb
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\DevOps.csprojAssemblyReference.cache
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\DevOps.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\DevOps.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\DevOps.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\DevOps.dll
+C:\Users\Yigit\source\repos\DevOps\DevOps\DevOps\obj\Debug\netstandard2.0\DevOps.pdb
